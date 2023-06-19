@@ -5,7 +5,7 @@ This project inlude:
 1) CAD_Exchange_testTask (main programm)
 2) curve_dll (dynamic link library)
 
-Project work:
+Project works on:
 - C++14
 - OpenMP
 - VS 2022 (v143)
