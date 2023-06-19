@@ -1,7 +1,7 @@
 # 3DCurve
 Program in C++ that would implement support of 3D curves hierarchy
 
-This project inlude:
+This project include:
 1) CAD_Exchange_testTask (main programm)
 2) curve_dll (dynamic link library)
 
